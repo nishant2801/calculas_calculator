@@ -32,6 +32,7 @@ long long value(string& str, int val) {
    return ans;
 }
 int main() {
+   cout<<"HELLO\n";
    string str;
    fflush(stdin);
    getline(cin,str);
